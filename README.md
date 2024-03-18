@@ -11,4 +11,5 @@ This is a simple to-do list application created using [Next.js](https://nextjs.o
 - Mark tasks as completed: Users can mark tasks as completed.
 - Responsive design: The application is responsive and works well on various devices.
 
-https://github.com/Mursel05/TodoList-Next-js/assets/134983247/1c2d03d4-d969-4a66-b004-b44f028ea0c9
+![image](https://github.com/Mursel05/TodoList-Next-js/assets/134983247/7bfb7786-e88e-47a9-a08f-bb38169157fd)
+
