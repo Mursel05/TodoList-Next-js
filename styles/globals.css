@@ -74,6 +74,9 @@ body {
   .input-style:focus {
     outline: none;
   }
+  .input-style::placeholder {
+    font-size: 0.9rem;
+  }
   .input-style,
   .input-color {
     background-color: #edeef0;

@@ -5,10 +5,7 @@ import { Item } from "@/modals/todo";
 import Todo from "@/components/Todo";
 
 export default function Home() {
-  const [todos, setTodos] = useState<Item[]>([
-    { id: 1, name: "Task 1" },
-    { id: 2, name: "Task 2" },
-  ]);
+  const [todos, setTodos] = useState<Item[]>([]);
 
   function addTodo(name: string) {
     const todo = { id: Date.now(), name };
